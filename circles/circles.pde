@@ -23,8 +23,8 @@ void draw() {
 		ellipse(centerX, centerY, diam, diam);
 		diam += 10;
 	}
-	else {
-		saveFrame("circles-####.png");
-	}
+	// else {
+	// 	saveFrame("circles-####.png");
+	// }
 
 } // End draw()
